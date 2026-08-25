@@ -5,17 +5,6 @@
 Agricultural data in India is publicly available but exists mainly in static government reports. This project transforms 345,407 raw records into an interactive Tableau solution — 9 visualizations, 4 role-specific dashboards, and a guided Story — published free on Tableau Public for anyone to explore without installing software or creating an account.
 
 ---
-
-##  Quick Links
-
-| Resource | Link |
-|---|---|
-|  **Live Dashboard (Overview)** | [public.tableau.com/.../IndiaAgricultureanalysisproject](https://public.tableau.com/app/profile/divya.kauluri/viz/IndiaAgricultureanalysisproject) |
-| **Guided Story Walkthrough** | [.../IndiasAgricultureJourney](https://public.tableau.com/app/profile/divya.kauluri/viz/IndiaAgricultureanalysisproject/IndiasAgricultureJourney?publish=yes) |
-|  **This Repository** | [github.com/divyakauluri-spec/India-s-agricultural-crop-production-analysis](https://github.com/divyakauluri-spec/India-s-agricultural-crop-production-analysis) |
-
----
-
 ##  Overview
 
 Agricultural crop data in India is publicly available but scattered across static government reports, making it difficult for different stakeholders to draw insights:
@@ -129,18 +118,10 @@ Other files in the repository root:
 Full detail with screenshots: [`document/7. Project Development Phase/1. Preprocessing Steps and Business Questions.pdf`](./document/7.%20Project%20Development%20Phase/)
 
 ---
-
-##  Demonstration Video
-
-A full screen-recorded walkthrough of all dashboards and the Story, with narration, is available in:
-[`document/6. Documentation and Demo/`](./document/6.%20Documentation%20and%20Demo/)
-
----
-
 ##  Author
 
-**Divya Kauluri**
-[GitHub](https://github.com/divyakauluri-spec) · [Tableau Public Profile](https://public.tableau.com/app/profile/divya.kauluri)
+**Bhavitha Medakayala**
+[GitHub](https://github.com/bhavithamedakayala33-hash)
 
 ---
 
