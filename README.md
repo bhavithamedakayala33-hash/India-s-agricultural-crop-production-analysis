@@ -72,8 +72,6 @@ The raw government CSV (345,407 rows) was cleaned and enriched using Python/Pand
 
 **Known limitation:** 2021 figures are partial-year, since government year-end reporting was incomplete at the time of data collection — visible as a dip at the end of trend charts.
 
-Full preprocessing steps and data dictionary: [`document/7. Project Development Phase/`](./document/7.%20Project%20Development%20Phase/)
-
 ---
 
 ##  Repository Structure
@@ -115,7 +113,7 @@ Other files in the repository root:
 | 8 | Are production rankings distorted by mixed measurement units? | Production Distribution by Unit Type |
 | 9 | Which growing season should be prioritized for a given crop? | Season-wise Production |
 
-Full detail with screenshots: [`document/7. Project Development Phase/1. Preprocessing Steps and Business Questions.pdf`](./document/7.%20Project%20Development%20Phase/)
+Full detail with screenshots: Available in the above folders
 
 ---
 ##  Author
